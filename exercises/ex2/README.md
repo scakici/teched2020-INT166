@@ -12,7 +12,7 @@ In this exercise, we will use Document Information Extraction Service to do foll
 
 After completing below step you will have access for Document Information Extraction Service and its UI Application
 
-1. Follow this [tutorial](https://developers.sap.com/tutorials/cp-aibus-dox-booster-app.html) to create instance of Document Informaiton Extraction Service and Subscribe to UI.
+1. Follow this [tutorial](https://developers.sap.com/tutorials/cp-aibus-dox-booster-app.html) to create instance of Document Information Extraction Service and Subscribe to UI.
 
 Now that we have access to UI Application, we'll goto the UI Application for our next excersice.
 **Make sure you also download the service key, since we'll be using it in subsequent exersice**
